@@ -1,0 +1,17 @@
+﻿  g_user_interface.cpp
+  observer.cpp
+  repository.cpp
+  service.cpp
+  teste.cpp
+  undo.cpp
+  validatori.cpp
+  vector_dinamic.cpp
+  domain.cpp
+  exceptions.cpp
+  lab10_11.cpp
+  lista_notificare.cpp
+  main.cpp
+C:\Users\raull\Desktop\Cursuri\An1-Sem2\OOP\Programe\lab10_11\lab10_11\observer.cpp(17,11): warning C4858: discarding return value: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+  qrc_lab10_11.cpp
+  moc_lab10_11.cpp
+  lab10_11.vcxproj -> C:\Users\raull\Desktop\Cursuri\An1-Sem2\OOP\Programe\lab10_11\x64\Debug\lab10_11.exe

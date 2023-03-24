@@ -1,0 +1,12 @@
+1,Raul,30.1,garsoniera
+2,Andrei,50.2,2 camere
+4,Cristi,50.2,garsoniera
+5,Mihai,55.2,2 camere
+6,Mihai,55.2,2 camere
+7,Mihai,55.2,2 camere
+8,Mihai,55.2,2 camere
+9,Mihai,55.2,2 camere
+10,Mihai,55.2,2 camere
+11,Mihai,55.2,2 camere
+12,Mihai,55.2,2 camere
+15,Raul,30.1,garsoniera
